@@ -1,10 +1,4 @@
-# Immersve Coding Challenge
-
-This repository contains the skeleton for a Node JS library. 
-
-It can be used as the starting point for Immersve's coding tests for screening Software
-Engineering job applicants. 
-
+# Rate Limit Library
 
 ## Setup
 
@@ -15,7 +9,6 @@ Install dependencies:
 ```
 docker-compose run script yarn install
 ```
-
 
 ## Example
 
@@ -31,7 +24,6 @@ or in Docker:
 docker-compose run script yarn dev
 ```
 
-
 ## Testing
 
 Run unit tests:
@@ -45,8 +37,3 @@ or in Docker:
 ```
 docker-compose run script yarn test
 ```
-
-
-## Legal
-
-Copyright © 2022 Immersve. All rights reserved.
